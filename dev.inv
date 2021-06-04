@@ -1,3 +1,4 @@
 [web]
-10.0.0.118 ansible_user=ec2-user 
-10.0.0.172 ansible_user=ec2-user 
+10.0.0.121 ansible_user=ec2-user 
+10.0.0.144 ansible_user=ec2-user 
+10.0.0.221 ansible_user=ec2-user
